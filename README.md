@@ -1,3 +1,8 @@
 # ASI_Practicum
 
-Text preprocessing pipelines, riskiness detection models, and topic modeling.
+** Main deliverables:
+1. Text preprocessing pipelines
+
+2. Riskiness detection models
+
+3. Topic modeling
